@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar se o email e password estão preenchidas , se não mostrar uma mensagem de error a dizer &quot;Campos debem estar prenchidos&quot;</description>
+   <name>AT02_01 Testar login and register - (Campos Prenchidos)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af4c40d8-dfff-4b2c-9150-a3771feb49cb</testCaseGuid>
+</TestCaseEntity>

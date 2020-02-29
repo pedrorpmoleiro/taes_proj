@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validar se o email é valido (se segue o formato : &quot;exemplo@mail.com&quot;) , se não mostrar uma mensagem de error a dizer &quot;email invalido&quot;</description>
+   <name>AT02_02 Testar login and register - (Validade do email)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb6e7248-0fb0-4224-acc3-1ff0055d09c6</testCaseGuid>
+</TestCaseEntity>
